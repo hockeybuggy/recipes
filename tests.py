@@ -5,11 +5,9 @@ import unittest
 import frontmatter
 
 
-baking_recipe_files = []
+recipe_files = []
 for root, dirs, files in os.walk("baking"):
-    baking_recipe_files += [os.path.join(root, name) for name in files]
-
-recipe_files = baking_recipe_files
+    recipe_files += [os.path.join(root, name) for name in files]
 
 recipe_headers = []
 for filename in recipe_files:
@@ -19,17 +17,20 @@ for filename in recipe_files:
 
 
 class RecipesTestCase(unittest.TestCase):
+    def assertMetaIn(self, key, meta, filename):
+            self.assertIn(key, meta, "{}".format(filename))
+
     def test_all_recipes__has_name(self):
         for file_name, meta in recipe_headers:
-            self.assertIn("name", meta)
+            self.assertMetaIn("name", meta, filename)
 
     def test_all_recipes__has_source(self):
         for file_name, meta in recipe_headers:
-            self.assertIn("source_url", meta)
+            self.assertMetaIn("source_url", meta, filename)
 
     def test_all_recipes__has_time(self):
         for file_name, meta in recipe_headers:
-            self.assertIn("time", meta)
+            self.assertMetaIn("time", meta, filename)
             # TODO time format
 
 
