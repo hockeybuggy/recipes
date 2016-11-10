@@ -14,7 +14,7 @@ yield: "~30 cookies"
 - 1 teaspoon baking soda
 - 1/2 teaspoon ground cloves
 - 1/2 teaspoon fine salt
-- 1 stick (4 ounces) unsalted butter, at room temperature
+- 1/2 cup unsalted butter, at room temperature
 - 1 cup sugar, plus more for rolling
 - 1/3 cup molasses
 - 1 large egg
