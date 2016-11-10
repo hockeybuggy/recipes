@@ -1,5 +1,7 @@
 
-# Some recipes
+# Recipes book
+
+[![Build Status](https://travis-ci.org/hockeybuggy/recipes.svg?branch=master)](https://travis-ci.org/hockeybuggy/recipes)
 
 I was having a hard time finding recipes that I have tried before and liked. This repository is my attempt to collect some of them.
 
