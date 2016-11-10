@@ -3,6 +3,7 @@ name: "Ginger Molassas Cookies"
 source_url: "http://www.foodnetwork.com/recipes/food-network-kitchens/chewy-ginger-molasses-cookies.html"
 oven_temp: "375 F"
 time: "30m"
+yield: "~30 cookies"
 ---
 
 # Ingredients

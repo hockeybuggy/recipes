@@ -3,6 +3,7 @@ name: "Chocolate Chip Oatmeal Cookies"
 source_url: "http://allrecipes.com/recipe/24445/chewy-chocolate-chip-oatmeal-cookies/"
 oven_temp: "325 F"
 time: "55m"
+yield: "~30 cookies"
 ---
 
 # Ingredients
