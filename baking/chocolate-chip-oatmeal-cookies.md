@@ -23,6 +23,12 @@ yield: "~30 cookies"
 
 1. Preheat the oven to 325 degrees F (165 degrees C).
 
-2. In a large bowl, cream together the butter, brown sugar, and white sugar until smooth. Beat in eggs one at a time, then stir in vanilla. Combine the flour, baking soda, and salt; stir into the creamed mixture until just blended. Mix in the quick oats, and chocolate chips. Drop by heaping spoonfuls onto ungreased baking sheets.
+2. In a large bowl, cream together the butter, brown sugar, and white sugar until smooth.
 
-3. Bake for 12 minutes in the preheated oven. Allow cookies to cool on baking sheet for 5 minutes before transferring to a wire rack to cool completely.
+3. Beat in eggs one at a time, then stir in vanilla.
+
+4. Combine the flour, baking soda, and salt; stir into the creamed mixture until just blended.
+
+5. Mix in the quick oats, and chocolate chips. Drop by heaping spoonfuls onto ungreased baking sheets.
+
+6. Bake for 12 minutes in the preheated oven. Allow cookies to cool on baking sheet for 5 minutes before transferring to a wire rack to cool completely.
