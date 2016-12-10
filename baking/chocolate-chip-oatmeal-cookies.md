@@ -29,6 +29,8 @@ yield: "~30 cookies"
 
 4. Combine the flour, baking soda, and salt; stir into the creamed mixture until just blended.
 
-5. Mix in the quick oats, and chocolate chips. Drop by heaping spoonfuls onto ungreased baking sheets.
+5. Mix in the quick oats, and chocolate chips.
 
-6. Bake for 12 minutes in the preheated oven. Allow cookies to cool on baking sheet for 5 minutes before transferring to a wire rack to cool completely.
+6. Drop by heaping spoonfuls onto ungreased baking sheets.
+
+7. Bake for 12 minutes in the preheated oven. Allow cookies to cool on baking sheet for 5 minutes before transferring to a wire rack to cool completely.
