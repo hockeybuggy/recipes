@@ -2,7 +2,7 @@
 name: "Chocolate Chip Oatmeal Cookies"
 source_url: "http://allrecipes.com/recipe/24445/chewy-chocolate-chip-oatmeal-cookies/"
 oven_temp: "325 F"
-time: "55m"
+time: "12m"
 yield: "~30 cookies"
 ---
 
@@ -19,6 +19,7 @@ yield: "~30 cookies"
 - 3 cups quick-cooking oats
 - 1 cup semisweet chocolate chips
 
+
 # Directions
 
 1. Preheat the oven to 325 degrees F (165 degrees C).
@@ -27,7 +28,7 @@ yield: "~30 cookies"
 
 3. Beat in eggs one at a time, then stir in vanilla.
 
-4. Combine the flour, baking soda, and salt; stir into the creamed mixture until just blended.
+4. Combine the flour, baking soda, and salt. Stir into the creamed mixture until just blended.
 
 5. Mix in the quick oats, and chocolate chips.
 
