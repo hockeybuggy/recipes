@@ -26,7 +26,8 @@ class RecipesTestCase(unittest.TestCase):
 
     def test_all_recipes__has_source(self):
         for file_name, meta in recipe_headers:
-            self.assertMetaIn("source_url", meta, filename)
+            if "source" not in meta and "source_url" not in meta:
+                self.fail("{} does not have a source.".format(filename))
 
     def test_all_recipes__has_time(self):
         for file_name, meta in recipe_headers:
