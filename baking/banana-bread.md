@@ -26,7 +26,7 @@ yield: "2 loaf pans"
 
 2. Add eggs and bananas and mix well
 
-3. Stir in dry ingredients (flour, salt, baking soda)
+3. Stir in dry ingredients (flour, and salt)
 
 4. Mix soda and water. Add to mixture
 
