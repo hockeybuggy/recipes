@@ -24,11 +24,11 @@ yield: "2 loaf pans"
 
 1. Cream shortening and sugar
 
-2. Add egss and bananas and mix well
+2. Add eggs and bananas and mix well
 
-3. Stir in dry ingredients
+3. Stir in dry ingredients (flour, salt, baking soda)
 
-4. Mix soda and water, and to mixture
+4. Mix soda and water. Add to mixture
 
 5. Add vanilla and lemon juice
 
