@@ -17,7 +17,7 @@ yield: "2 loaf pans"
 - 1 tsp baking soda
 - 3 tbsp cold water
 - 1 tsp vanilla
-- ? cups chocolate chips
+- 1 cups chocolate chips
 - (optional) splash of lemon juice?
 
 # Directions
