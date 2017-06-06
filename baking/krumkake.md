@@ -18,7 +18,7 @@ yield: "?? many cookies"
 
 # Directions
 
-1. Heat the krumkake iron
+1. Heat the Krumkake iron
 
 2. Beat eggs until light (no idea how light light is)
 
@@ -28,6 +28,6 @@ yield: "?? many cookies"
 
 5. (optional) If the batter is too thick add more cream.
 
-4. Drop 1 tsp on a hot krumkake iron. Close iron and cook until light brown. It's a bit of an art form
+4. Drop 1 tsp on a hot Krumkake iron. Close iron and cook until light brown. It's a bit of an art form
 
 5. Roll cookie into tube shape while still hot.

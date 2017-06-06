@@ -20,6 +20,7 @@ yield: "2 loaf pans"
 - 1 cups chocolate chips
 - (optional) splash of lemon juice?
 
+
 # Directions
 
 1. Cream shortening and sugar
@@ -37,6 +38,7 @@ yield: "2 loaf pans"
 7. Split into two greased loaf pans
 
 8. Bake for 1 hour. Check with toothpick
+
 
 # Additional notes
 

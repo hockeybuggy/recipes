@@ -19,6 +19,7 @@ yield: "~30 cookies"
 - 1/3 cup molasses
 - 1 large egg
 
+
 # Directions
 
 1. Preheat the oven to 375 degrees F. Line two baking sheets with parchment paper.
