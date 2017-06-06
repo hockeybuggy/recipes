@@ -37,3 +37,7 @@ yield: "2 loaf pans"
 7. Split into two greased loaf pans
 
 8. Bake for 1 hour. Check with toothpick
+
+# Additional notes
+
+- This receipt can also make 24 muffins with a bake time of 45m.
