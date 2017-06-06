@@ -26,11 +26,11 @@ yield: "2 loaf pans"
 
 2. Add eggs and bananas and mix well
 
-3. Stir in dry ingredients (flour, and salt)
+3. Mix soda and water. Set aside
 
-4. Mix soda and water. Add to mixture
+4. Stir in dry ingredients (flour, and salt)
 
-5. Add vanilla and lemon juice
+5. Add vanilla, soda water, and lemon juice
 
 6. Fold in chocolate chips
 
