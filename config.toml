@@ -1,0 +1,32 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Recipe book of Douglas Anderson"
+theme = "minimal"
+
+# Copyright notice. This is displayer in the footer.
+copyright = "&copy; Douglas Anderson (2017)"
+
+[params]
+  paginate = 10
+  # Google Analytics API key.
+  ga_api_key = "Your Google Analytics tracking id"
+  # author = "Douglas Anderson"
+  authorwebsite = "hockeybuggy.com"
+  # Logo image. This is displayed ogp image.
+  logo = "/path/to/logo"
+  favicon = "/path/to/favicon"
+
+[[menu.main]]
+    name = "Recipes"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Baking"
+    url = "/baking"
+    weight = 2
+
+# [[menu.main]]
+#     name = "Tags"
+#     url = "tags"
+#     weight = 4
