@@ -1,6 +1,6 @@
 ---
 name: "Banana Bread"
-source: "Mom's cook book whose name eludes me"
+source: "Mom's Better Living Cookbook"
 oven_temp: "325 F"
 time: "1h"
 yield: "2 loaf pans"
@@ -31,13 +31,15 @@ yield: "2 loaf pans"
 
 4. Stir in dry ingredients (flour, and salt)
 
-5. Add vanilla, soda water, and lemon juice
+5. Add vanilla, soda water then stir.
 
-6. Fold in chocolate chips
+6. (optional) Add the slash of lemon juice.
 
-7. Split into two greased loaf pans
+7. Fold in chocolate chips
 
-8. Bake for 1 hour. Check with toothpick
+8. Split into two greased loaf pans
+
+9. Bake for 1 hour. Check with toothpick
 
 
 # Additional notes
