@@ -32,6 +32,6 @@ yield: "~30 cookies"
 
 4. Using a tablespoon, form the dough into 1-inch balls and roll in sugar. Place each ball 2 inches apart on the prepared baking sheets.
 
-5. Bake until golden and crackled, 12 to 15 minutes; the cookies will still be a little soft. Baking these in 3 batches one sheet at a time gets you the nice, crackly top.
+5. Bake until golden and crackled, 11 to 13 minutes; the cookies will still be a little soft. Baking these in 3 batches one sheet at a time gets you the nice, crackly top.
 
 6. Allow the cookies to cool for 5 minutes on the baking sheet, and then remove to a rack to cool completely.
