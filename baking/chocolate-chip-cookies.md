@@ -34,4 +34,4 @@ yield: "~30 cookies"
 
 6. Mix in chocolate chips with spatula or hands
 
-7. Bake at 375 for 10-12 minutes.
+7. Bake for 10-12 minutes.
